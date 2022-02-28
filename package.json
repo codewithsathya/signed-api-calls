@@ -1,0 +1,22 @@
+{
+  "name": "signed-api-calls",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codewithsathya/signed-api-calls.git"
+  },
+  "author": "S Sathiya Seelan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codewithsathya/signed-api-calls/issues"
+  },
+  "homepage": "https://github.com/codewithsathya/signed-api-calls#readme",
+  "dependencies": {
+    "axios": "^0.26.0"
+  }
+}
