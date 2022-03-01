@@ -1,0 +1,7 @@
+class Binance{
+	links = {
+		
+	}
+
+
+}
